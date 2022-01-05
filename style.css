@@ -18,7 +18,6 @@ body{
     width: 70%;
 }
 .button{
-    margin-top: 50px;
     text-decoration: none;
     background-image: linear-gradient(cyan,blue);
     color:black;
@@ -48,7 +47,7 @@ body{
     border-image: linear-gradient(red, violet);
     border-image-slice: 1;
 }
-footer{
+footer p{
     text-align: center;
     font-family: 'Lobster', cursive;
 }
