@@ -1,0 +1,30 @@
+body{
+    font-family: 'Lobster', cursive;
+    font: 50px;
+}
+.orange{
+    color: slategray;
+}
+.flexible{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 25px;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,blue);
+    color: white;
+    border-radius: 10%;
+    padding: 5px 10px;
+    font-weight: 900;
+}
+.background{
+    background-image: url(images/pexels-gradienta-7134994.jpg);
+    background-repeat: no-repeat;
+}
